@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-22T20:23:38 IST" name="Suite" finished-at="2022-11-22T20:23:38 IST" duration-ms="114">
+    <groups>
+    </groups>
+    <test started-at="2022-11-22T20:23:38 IST" name="Test" finished-at="2022-11-22T20:23:38 IST" duration-ms="114">
+      <class name="abc.Demo1">
+        <test-method signature="Test1()[pri:0, instance:abc.Demo1@581ac8a8]" started-at="2022-11-22T20:23:38 IST" name="Test1" finished-at="2022-11-22T20:23:38 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:0, instance:abc.Demo1@581ac8a8]" started-at="2022-11-22T20:23:38 IST" name="Test2" finished-at="2022-11-22T20:23:38 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- abc.Demo1 -->
+      <class name="abc.Demo2">
+        <test-method signature="Test3()[pri:0, instance:abc.Demo2@4d465b11]" started-at="2022-11-22T20:23:38 IST" name="Test3" finished-at="2022-11-22T20:23:38 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method signature="Test4()[pri:0, instance:abc.Demo2@4d465b11]" started-at="2022-11-22T20:23:38 IST" name="Test4" finished-at="2022-11-22T20:23:38 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+      </class> <!-- abc.Demo2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
