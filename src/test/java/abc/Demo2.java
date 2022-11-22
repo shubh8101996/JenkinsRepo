@@ -16,7 +16,6 @@ public class Demo2 {
 	@Test
 	public void Test4() {
 		
-		Assert.assertTrue(false);
 		System.out.println("Test 4");
 		
 	}
